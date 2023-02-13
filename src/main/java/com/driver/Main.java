@@ -16,9 +16,9 @@ public class Main {
         }
     }
     public static void main(String[]args){
-        Product p = new Product();
-        p.Product(1,2);
-        p.Product(1,2,3);
-        p.Product(1.2,2.0);
+//        Product p = new Product();
+//        p.Product(1,2);
+//        p.Product(1,2,3);
+//        p.Product(1.2,2.0);
     }
 }
